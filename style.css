@@ -1,0 +1,23 @@
+body {
+  font-family: "TicTacToeFont", Arial, sans-serif;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+  background: #333;
+}
+
+.square{
+	width: 60px;
+	height: 60px;
+	font-size: 20pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+a:link{
+	color: white;
+}
+a:visited{
+	color:red;
+}
